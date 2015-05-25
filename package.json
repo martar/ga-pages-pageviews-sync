@@ -1,0 +1,15 @@
+{
+  "name": "ga-pages-pageviews-sync",
+  "version": "1.0.0",
+  "description": "Module to synchronise number of pageviews in a specified pagePath regex ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marta Rylko",
+  "license": "ISC",
+  "dependencies": {
+    "gapitoken": "^0.1.4",
+    "googleanalytics": "^0.3.7"
+  }
+}
