@@ -2,8 +2,6 @@ var GAPI = require('gapitoken');
 var conf = require('./config.js');
 var gaconnector = require('./ga-connector.js');
 
-// ES: 'ga:67266167'
-
 main();
 
 // process the arguments and run the logic
